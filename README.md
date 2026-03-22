@@ -57,7 +57,7 @@ A comprehensive business management system designed for credit repair agencies a
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd CRMSMUSKAN
+   cd CRMS
    ```
 
 2. **Install PHP dependencies**
@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email support@cr-msmuskan.com or create an issue in this repository.
+For support, email muskankhanna023@gmail.com or create an issue in this repository.
 
 ---
 
