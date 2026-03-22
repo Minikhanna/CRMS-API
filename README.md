@@ -1,4 +1,4 @@
-# CRMSMUSKAN - Multi-Domain Business Management Platform
+# CRMS - Multi-Domain Business Management Platform
 
 A comprehensive business management system designed for credit repair agencies and financial service firms. CRMSMUSKAN integrates credit dispute resolution, financial operations, e-commerce capabilities, and workflow automation into a unified platform.
 
